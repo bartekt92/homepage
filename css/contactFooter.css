@@ -1,0 +1,32 @@
+.contactFooter {
+    margin-top: 40px;
+    margin-bottom: 10px;
+    text-align: center;
+    background-color: #d9c5cb;
+    color: #0a3110;
+    border: 3px groove #0a3110;
+    border-radius: 11px;
+    text-decoration: none;
+    padding: 5px 10px;
+}
+
+.contactFooter__link {
+    color: #0a3110;
+    box-shadow: inset 5px -5px 22px 4px #CFD1D1;
+    text-decoration: none;
+}
+
+.contactFooter__link:focus {
+    outline: 2px solid #791a1a;
+    color: #055412;
+}
+
+.contactFooter__link:hover {
+    color: #791a1a;
+    outline: none;
+    box-shadow: 5px -5px 27px 8px #e5beb7;
+}
+
+.contactFooter__link:active {
+    color: #791a1a;
+}

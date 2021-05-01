@@ -1,0 +1,21 @@
+.section {
+    padding: 6px 0;
+    color: #33060f;
+}
+
+.section__myImage {
+    width: 100%;
+    max-width: 140px;
+}
+
+.section__js-invisible {
+    display: none;
+}
+
+.section__paragraph {
+    color: #1b0409;
+}
+
+.section__paragraph--itallic {
+    font-style: italic;
+}

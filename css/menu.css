@@ -1,0 +1,40 @@
+.menu {
+    text-align: center;
+    margin: 0;
+}
+
+.menu__list {
+    list-style-type: none;
+    padding-inline-start: 0px;
+    margin: 0;
+}
+
+.menu__item {
+    display: inline-block;
+    padding: 0 10px;
+    font-size: 20px;
+}
+
+.menu__link {
+    background-color: #d9c5cb;
+    color: #055412;
+    border: 3px groove #055412;
+    border-radius: 11px;
+    text-decoration: none;
+    padding: 5px 10px;
+}
+
+.menu__link:focus {
+    outline: 2px solid #791a1a;
+}
+
+.menu__link:hover {
+    background-color: #e5beb7;
+    box-shadow: 5px -5px 27px 8px #e5beb7;
+    color: #791a1a;
+    outline: none;
+}
+
+.menu__link:active {
+    color: #791a1a;
+}
