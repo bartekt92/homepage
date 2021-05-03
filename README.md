@@ -3,4 +3,4 @@
 ## Description:
 Page is about me, tells about my work and my passions.
 ## Demo
-(https://bartekt92.github.io/homepage/#siatk%C3%B3wka)
+(https://bartekt92.github.io/homepage/)
