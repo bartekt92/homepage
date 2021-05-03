@@ -2,5 +2,7 @@
 ![Bartłomiej Tabero](https://github.com/bartekt92/homepage/blob/main/images/bt.png?raw=true)
 ## Description:
 Page is about me, tells about my work and my passions.
-## Demo
+## Quick page preview:
+![Quick page preview](https://github.com/bartekt92/homepage/blob/main/images/bt.png?raw=true)
+## Demo:
 (https://bartekt92.github.io/homepage/)
