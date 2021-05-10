@@ -1,14 +1,15 @@
 const welcome = () => {
     console.log("Witajcie programiści!");
 }
-welcome();
-const invisible = document.querySelector(".section__js-invisible");
 const expandOnClick = () => {
-    invisible.classList.toggle("section__js-invisible");
+    const extraParagraphElement = document.querySelector(".js-invisible");
+    extraParagraphElement.classList.toggle("section__invisible");
     button.innerText = button.innerText === "zwiń" ? "rozwiń" : "zwiń";
 };
-
-const button = document.querySelector(".button");
-button.innerText = "rozwiń";
-
-button.addEventListener("click", expandOnClick);
+const init = () =>{
+    welcome();
+    const button = document.querySelector(".button");
+    button.innerText = "rozwiń";
+    button.addEventListener("click", expandOnClick);
+}
+init();
